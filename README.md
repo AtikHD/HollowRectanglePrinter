@@ -26,7 +26,7 @@ You can specify the number of rows and columns, and the program will generate th
 
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/HollowRectanglePrinter.git
+   git clone https://github.com/AtikHD/HollowRectanglePrinter.git
    cd HollowRectanglePrinter
 Compile the Java file:
 javac HollowRectanglePrinter.java
